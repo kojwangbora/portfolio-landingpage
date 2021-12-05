@@ -50,7 +50,7 @@ nav ul{
 nav ul li a{
     font-size: 20px;
     text-decoration: none;
-    color: black;
+    color: #E16520;
 }
 .details{
     display: flex;
@@ -217,7 +217,7 @@ span{
     display: block;
     margin: auto;
     height: 1px;
-    margin-top: 5px;
+    margin-top: 10px;
     width: 100px; 
     margin-bottom: 1%;
  }
@@ -227,5 +227,33 @@ span{
      color: white;
      font-size: 20px;
      border:none;
-     
+     margin-top:10px;
+     margin-bottom: 3%;
+
  }
+
+ .foot{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.foot p{
+    font-size: 24px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color:#E16520;
+    
+}
+ul li{
+    display: inline-block;
+    font-size: 24px;
+    color: #E16520;
+    padding-left: 15px;
+}
+
+ul{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: space-evenly;
+}
