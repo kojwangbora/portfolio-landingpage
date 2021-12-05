@@ -1,11 +1,11 @@
 ## My Portfolio
-This a user friendly website that allowing customers to order thier meails (organic/non-GMO foods) from their comfort zones and receiving their orders on time.
+This is a personal portfolio containing personal, academic and professional information. The portfolio is user friendly enabling people to get access of my sample projects and other details in case they are interested to either hire me or get to understand my project codes.
 ## Date of current version
-07/11/2021
+06/12/2021
 ## Authors
 Developed by Kojwang E.B Ochieng
 ## Description
-This a user friendly website that allows customers to order thier meails are their comfot zones. The website provides an up-to-date live tracking of orders initiated by the customers and their delivery. This website offers the customers the flexibility aspect where they save time used for visiting our Burger-palace store physically. Consequently, with the new COVID-19 measures, this website limits human interactions in eateries thus safeguarding the health and safety of our customers.
+ This is a user friendly web-portfolio containing my details such as name, background, skills, projects, and contact. The portfolio wil enable an easy acccess and interaction with other programmers and allow others to get to know me better.
 ## Setup/Installation Requirements
 * a phone/computer/tablet/ipad
 * An internet
@@ -17,6 +17,6 @@ no known bugs
  *HTML-for structuring the pages
  *CSS- used for styling the pages
 ## Support and contact details
-*Reach me through email: kojwangbora254@gmail.com
+*Reach me through email: kojwangbora254@gmail.com or contact +254792274743
 ### License
 *{Permission granted, free to any individual who would want to get a copy of this software and its document files.{year2021} **{Kojwang Elibora ochieng}**
