@@ -197,5 +197,35 @@ span{
 .bt a:hover{
     color:black
 }
- 
- 
+ .ft{
+     text-align: center;
+     margin-top: 20px;
+ }
+.ft h1{
+    font-size:25px;
+    padding:20px;
+}
+.ft p{
+    letter-spacing: 3px;
+    line-height: 30px;
+    font-size: 18px;
+    text-align: center;
+}
+ .ft h1::after{
+    content: '';
+    background: #E16520;
+    display: block;
+    margin: auto;
+    height: 1px;
+    margin-top: 5px;
+    width: 100px; 
+    margin-bottom: 1%;
+ }
+ .btnn{
+     padding: 15px 25px;
+     background-color: #E16520;
+     color: white;
+     font-size: 20px;
+     border:none;
+     
+ }
