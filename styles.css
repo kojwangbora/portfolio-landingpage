@@ -23,7 +23,7 @@
 }
 .bora h2{
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
  
@@ -35,13 +35,12 @@
     padding-top: 30px;
 }
 nav ul li {
-    border: 2px solid black;
     display: inline;
     padding: 10px;
     margin-right: 10px;
 }
 nav ul li:hover{
-    background-color:aqua;
+    background-color:#E16520;;
 }
 nav ul{
     margin-top: 40px;
@@ -51,3 +50,41 @@ nav ul li a{
     text-decoration: none;
     color: black;
 }
+.details{
+    display: flex;
+     
+}
+.det{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.det h3{
+font-size:24px;
+font-weight:400;
+}
+.det h1{
+font-size: 50px;
+padding-top:10px;
+}
+span{
+    color: #E16520;
+}
+.btn1{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-left: 40px;
+    margin-top: 3%;
+    color: black;
+    border:none;
+    margin-bottom: 10%;
+
+}
+.hp{
+    background-color: #c4c4c2;
+}
+.btn1:hover{
+    background-color: #E16520
+     
+
+}
+ 
