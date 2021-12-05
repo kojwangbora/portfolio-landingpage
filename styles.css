@@ -133,20 +133,24 @@ span{
     width: 180px; 
     margin-bottom: 3%;
 }
-
+.project-1{
+    margin:0px 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
     
 .inf{
     /* background-color:; */
     padding: 30px 20px;
-    width: 400px;
-    height:800px;
+    width: 300px;
+    /* height:700px; */
     margin: 0px;
     border-radius: 5px;
     border:1px solid #E16520;
-    box-shadow: 0px 2px 0px 0px grey;
+    box-shadow: 0px 15px 15px 0px #E16520;
 }
 .inf h3{
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 400;
     color:#E16520;
     text-align: center;
@@ -161,7 +165,37 @@ span{
     height: 1px;
     margin-top: 10px;
     width: 100px; 
-    margin-bottom: 2%;
+    margin-bottom: 1%;
+}
+.inf p{
+    padding: 0px 20px;
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: left;
+    line-height: 30px;
+
+}
+.inf h4{
+    font-weight: 300;
+    text-align: center;
+}
+.bt{
+    padding:10px 30px;
+    font-size: 20px;
+    background-color: #E16520;
+    color:white;
+    border: none;
+    border-radius:15px;
+    margin-top: 3%;
+
+}
+.bt a{
+    text-decoration: none;
+    color: white;
+}
+.bt a:hover{
+    color:black
 }
  
  
