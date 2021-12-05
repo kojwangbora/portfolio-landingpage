@@ -65,6 +65,7 @@ font-weight:400;
 .det h1{
 font-size: 50px;
 padding-top:10px;
+letter-spacing: 3px;
 }
 span{
     color: #E16520;
@@ -77,27 +78,40 @@ span{
     color: black;
     border:none;
     margin-bottom: 10%;
+    background-color:#E16520;
 
 }
 .hp{
-    background-color: #c4c4c2;
+    /* background-color: whitesmoke; */
 }
 .btn1:hover{
-    background-color: #E16520
+    background-color: whitesmoke;
 }
 .pic{
     margin-left: 40px;
 
 }
-.img1{
+#img{
     height:85%;
-    width: 70%;
+    width: 50%;
+    border-radius: 8px;
 }
 .about-me{
     display:flex;
-    justify-content: space-between;
-    margin-left: 10%;
-    margin-right: 10%;
-    background-color:
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top:3%;
+    
+      
+}
+ 
+
+.me-text{
+    border:1px solid black;
+    margin-left: -80%;
+    background-color:#fddcc356;
+
+    padding: 
 }
  
