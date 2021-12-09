@@ -95,10 +95,10 @@ span{
  .me-texts{
      margin-top: 5%;
      border:1px solid #2f3d3c;
-     box-shadow: 0px 5px 0px 0px #2f3d3c;
-     background-color: #2f3d3c;
+     box-shadow: 0px 15px 30px 0px #2f3d3c;
+     background-color:white;
      margin-left:-10%;
-     color: white;
+     color: black;
      border-radius: 20px;
 
  }
